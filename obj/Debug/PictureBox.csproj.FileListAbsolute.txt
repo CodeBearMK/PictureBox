@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\PictureBox\bin\Debug\PictureBox.exe.config
+D:\cat32tw\Desktop\PictureBox\bin\Debug\PictureBox.exe
+D:\cat32tw\Desktop\PictureBox\bin\Debug\PictureBox.pdb
+D:\cat32tw\Desktop\PictureBox\obj\Debug\PictureBox.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\PictureBox\obj\Debug\PictureBox.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\PictureBox\obj\Debug\PictureBox.Form1.resources
+D:\cat32tw\Desktop\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+D:\cat32tw\Desktop\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\PictureBox\obj\Debug\PictureBox.exe
+D:\cat32tw\Desktop\PictureBox\obj\Debug\PictureBox.pdb
